@@ -6,7 +6,7 @@ title: Uku Vainik
 superuser: true
 
 # Role/position/tagline
-role: Researcher and Associate Professor
+role: Research Fellow | Associate Professor | Adjunct Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
