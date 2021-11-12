@@ -20,40 +20,36 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: uku.vainik@ut.ee
+phone: +372 737-5912
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Näituse 2-216
+  city: Tartu
+  region: Tartumaa
+  postcode: '50409'
+  country: Estonia
+  country_code: EE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '58.37946955712315'
+  longitude: '26.711465727485976'
+directions: Enter building and take the stairs to Office 216 on Floor 2
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Find me on Twitter
+    link: 'https://twitter.com/ukuv'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: 'skype:ukuvainik?call'
+#  - icon: keybase
+#    icon_pack: fab
+#    name: Chat on Keybase
+#    link: 'https://keybase.io/'
+#  - icon: comments
+#    icon_pack: fas
+#    name: Discuss on Forum
+#    link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -104,7 +100,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'This work is licensed under CC0'
 abstract_length: 135
 plugins_js: []
 avatar:
