@@ -16,18 +16,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 100%
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 50%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 100%
+  icon: scirate
+  icon_pack: ai
+  name: Psychology
+- description: 50%
+  icon: dna
   icon_pack: fas
-  name: Photography
+  name: Genetics
+- description: 50%
+  icon: puzzle-piece
+  icon_pack: fas
+  name: Cognition
+- description: 25%
+  icon: brain
+  icon_pack: fas
+  name: Brain
+- description: 50%
+  icon: 'user-edit'
+  icon_pack: fas
+  name: Personality
+- description: 75%
+  icon: drumstick-bite
+  icon_pack: fas
+  name: Eating behaviour
+- description: 50%
+  icon: heartbeat
+  icon_pack: fas
+  name: Health
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

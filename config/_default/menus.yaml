@@ -7,16 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  - name: Skills
+    url: '#skills'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Experience
+    url: '#excperience'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: Projects (ETIS)
+    #url: '#projects'
+    url: 'https://www.etis.ee/CV/Uku_Vainik/est?tabId=Projects&lang=ENG'
     weight: 40
-  - name: Publications
+  - name: Publications (Google Scholar)
     url: 'https://scholar.google.com/citations?user=ouXTgzIAAAAJ&hl=en'
 #    url: '#featured'
     weight: 50

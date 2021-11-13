@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Uku Vainik
+title: Uku Vainik, PhD
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,9 +29,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Postdoctoral Fellow
-    institution: McGill University
-    year: 2019
   - course: PhD in Psychology
     institution: University of Tartu
     year: 2015
