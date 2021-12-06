@@ -27,7 +27,7 @@ experience:
     company_url: 'https://genomics.ut.ee/en'
     #company_logo: org-gc
     location: Tartu, Estonia
-    date_start: '2021-11-09'
+    date_start: '2022-01-01'
     date_end: ''
     # description: |2-
     #     Responsibilities include:

@@ -20,7 +20,7 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 50%
+- description: 75%
   icon: chart-line
   icon_pack: fas
   name: Statistics
